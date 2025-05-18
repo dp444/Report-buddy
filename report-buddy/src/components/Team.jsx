@@ -1,7 +1,7 @@
 import React from "react";
-import dhirajImage from '../assets/Dhiraj.jpeg'; // path relative to the file
-import AshishImage from '../assets/Ashsih.jpeg';
-import Omkarimage from '../assets/Omkar.jpeg';
+import dhirajImage from '../assets/profile.png'; // path relative to the file
+import AshishImage from '../assets/profile.png';
+import Omkarimage from '../assets/profile.png';
 
 
 const teamMembers = [
