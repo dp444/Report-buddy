@@ -19,10 +19,11 @@ For windows:
 myenv\Scripts\activate
 ```
 
-Modify Gemini API token in app.py
+
 ```
 pip install -r requirements.txt
 ```
+Modify Gemini API token in app.py
 ```
 python app.py
 ```
