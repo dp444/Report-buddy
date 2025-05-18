@@ -21,7 +21,7 @@ myenv\Scripts\activate
 
 Modify Gemini API token in app.py
 ```
-pip install -requirements.txt
+pip install -r requirements.txt
 ```
 ```
 python app.py
