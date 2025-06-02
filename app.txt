@@ -18,7 +18,7 @@ import markdown2
 from bs4 import BeautifulSoup
 
 # ---------- Gemini API Setup ----------
-client = genai.Client(api_key="AIzaSyDiQiamV-DGhnxiuuzQIxwHpdCB_8lW-2I")
+client = genai.Client(api_key="")
 
 # ---------- Flask Setup ----------
 app = Flask(__name__)
